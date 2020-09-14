@@ -1,0 +1,5 @@
+import telepot in your system
+token will get from the bot
+you have to define the method handle
+and you have to write the content  type ,chat id
+the bot will send the message back
